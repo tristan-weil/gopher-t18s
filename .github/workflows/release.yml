@@ -9,7 +9,6 @@ on:
 
 jobs:
   docker-image:
-    needs: static-pages
     runs-on: ubuntu-latest
 
     steps:
