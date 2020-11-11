@@ -1,4 +1,4 @@
-FROM ghcr.io/tristan-weil/ttserver:v1.0.0
+FROM ghcr.io/tristan-weil/ttserver:v1.0.1
 
 LABEL org.opencontainers.image.source https://github.com/tristan-weil/gopher-t18s
 
